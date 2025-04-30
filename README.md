@@ -44,7 +44,7 @@
 6. Which loop structure iterates through array items?  
    a) for  
    b) while  
-   **c) foreach **
+   **c) foreach**
    d) switch  
 
 7. What is the result of `true && false` in PHP?  
